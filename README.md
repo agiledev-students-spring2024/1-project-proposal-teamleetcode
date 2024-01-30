@@ -1,5 +1,7 @@
 ## Leetcode Helper
 
+Leena Vieltojarvi
+
 ### What and why?
 
 This semester, I am looking to build a web platform that is able to help with studying leetcode problems. I personally have had difficulty with being able to both keep a schedule for working on leetcode problems as well as had difficulty with remembering specific techniques that should be used for certain problems. I assume others may also be having this problem, so this software would aim to help people like me with building a schedule to practice leetcode as well as to learn techniques for effectively solving leetcode problems.
